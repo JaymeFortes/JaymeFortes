@@ -2,9 +2,9 @@
 
 ### Estudante de Engenharia de Software | Desenvolvedor Backend com foco em Java/Spring Boot
 
-Sou um estudante do 4º semestre de Engenharia de Software na PUCRS, apaixonado por tecnologia e focado em construir soluções robustas e inovadoras. [cite_start]Meu interesse principal está no desenvolvimento Backend com Java e Spring Boot, mas também possuo uma base sólida em Frontend com JavaScript e React. [cite: 53, 54]
+Sou um estudante do 4º semestre de Engenharia de Software na PUCRS, apaixonado por tecnologia e focado em construir soluções robustas e inovadoras. Meu interesse principal está no desenvolvimento Backend com Java e Spring Boot, mas também possuo uma base sólida em Frontend com JavaScript e React.
 
-[cite_start]Busco constantemente aprimorar minhas habilidades e contribuir para projetos que gerem impacto. [cite: 56, 57]
+Busco constantemente aprimorar minhas habilidades e contribuir para projetos que gerem impacto.
 
 ---
 
@@ -12,38 +12,38 @@ Sou um estudante do 4º semestre de Engenharia de Software na PUCRS, apaixonado 
 
 | Categoria                | Tecnologias                                           |
 | :----------------------- | :---------------------------------------------------- |
-| **Linguagens** | [cite_start]Java (Avançado), JavaScript, TypeScript, C, R [cite: 59] |
-| **Frameworks** | [cite_start]Spring Boot (Avançado), React, Node.js [cite: 60]     |
-| **Banco de Dados** | [cite_start]SQL, NoSQL [cite: 61, 62]                              |
-| **Tecnologias & Ferramentas** | [cite_start]Tailwind CSS, JUnit5, Viking, Figma, Git, GitHub, Docker [cite: 63] |
-| **Pacote Office** | [cite_start]Excel, PowerPoint, Word, Power BI (Básico - Intermediário) [cite: 64] |
+| **Linguagens** | Java (Avançado), JavaScript, TypeScript, C, R |
+| **Frameworks** | Spring Boot (Avançado), React, Node.js     |
+| **Banco de Dados** | SQL, NoSQL                              |
+| **Tecnologias & Ferramentas** | Tailwind CSS, JUnit5, Viking, Figma, Git, GitHub, Docker |
+| **Pacote Office** | Excel, PowerPoint, Word, Power BI (Básico - Intermediário) |
 
 ---
 
 ### ✨ Experiência em Destaque
 
-[cite_start]**AGES (Agência Experimental de Software - PUCRS)** [cite: 71]
-* [cite_start]Desenvolvimento de software para gerenciamento de estágios em empresa de odontologia. [cite: 72]
-* [cite_start]Implementação de módulos de questionários aplicados em comunidades quilombolas. [cite: 73]
-* [cite_start]Criação de dashboards customizados para visualização de dados por comunidade. [cite: 74]
-* [cite_start]Projeto destaque, demonstrando habilidades em desenvolvimento de sistemas complexos e impactantes. [cite: 55]
+**AGES (Agência Experimental de Software - PUCRS)**
+* Desenvolvimento de software para gerenciamento de estágios em empresa de odontologia.
+* Implementação de módulos de questionários aplicados em comunidades quilombolas.
+* Criação de dashboards customizados para visualização de dados por comunidade.
+* Projeto destaque, demonstrando habilidades em desenvolvimento de sistemas complexos e impactantes.
 
-[cite_start]**Projetos Pessoais** [cite: 69]
-* [cite_start]Desenvolvimento de aplicações com foco em backend (Java, Spring Boot) e frontend (React, Node.js), visando o aprimoramento técnico e aplicação de boas práticas de desenvolvimento. [cite: 70]
+**Projetos Pessoais**
+* Desenvolvimento de aplicações com foco em backend (Java, Spring Boot) e frontend (React, Node.js), visando o aprimoramento técnico e aplicação de boas práticas de desenvolvimento.
 
 ---
 
 ### 🎓 Formação Acadêmica
 
-[cite_start]**Bacharelado em Engenharia de Software** [cite: 76]
-* [cite_start]Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS) [cite: 77]
-* [cite_start]4º semestre (Previsão de conclusão: 2027) [cite: 78, 79]
+**Bacharelado em Engenharia de Software**
+* Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS)
+* 4º semestre (Previsão de conclusão: 2027)
 
 ---
 
 ### 🌟 O que me move?
 
-[cite_start]Sou dedicado, lógico, proativo e tenho facilidade em aprender novas tecnologias. [cite: 56] [cite_start]Meu objetivo de curto prazo é obter um estágio até o final do ano para aplicar meus conhecimentos. [cite: 95] [cite_start]A longo prazo, busco uma carreira em uma empresa estável e inovadora, com oportunidades de crescimento profissional. [cite: 97]
+Sou dedicado, lógico, proativo e tenho facilidade em aprender novas tecnologias. Meu objetivo de curto prazo é obter um estágio até o final do ano para aplicar meus conhecimentos. A longo prazo, busco uma carreira em uma empresa estável e inovadora, com oportunidades de crescimento profissional.
 
 ---
 
