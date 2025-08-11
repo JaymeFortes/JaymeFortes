@@ -13,7 +13,7 @@ Busco constantemente aprimorar minhas habilidades e contribuir para projetos que
 | Categoria                | Tecnologias                                           |
 | :----------------------- | :---------------------------------------------------- |
 | **Linguagens** | Java (Avançado), JavaScript, TypeScript, C, R |
-| **Frameworks** | Spring Boot (Avançado), React, Node.js     |
+| **Frameworks** | Spring Boot (Avançado), React, Node.js, Nest.js     |
 | **Banco de Dados** | SQL, NoSQL                              |
 | **Tecnologias & Ferramentas** | Tailwind CSS, JUnit5, Viking, Figma, Git, GitHub, Docker |
 | **Pacote Office** | Excel, PowerPoint, Word, Power BI (Básico - Intermediário) |
