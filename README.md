@@ -1,6 +1,6 @@
 # Olá! 👋 Sou Jayme Eduardo Fortes
 
-### Estudante de Engenharia de Software | Desenvolvedor Backend com foco em Java/Spring Boot
+### Estudante de Engenharia de Software 
 
 Sou um estudante do 4º semestre de Engenharia de Software na PUCRS, apaixonado por tecnologia e focado em construir soluções robustas e inovadoras. Meu interesse principal está no desenvolvimento Backend com Java e Spring Boot, mas também possuo uma base sólida em Frontend com JavaScript e React.
 
