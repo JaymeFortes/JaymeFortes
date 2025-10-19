@@ -22,6 +22,11 @@ Busco constantemente aprimorar minhas habilidades e contribuir para projetos que
 
 ### ✨ Experiência em Destaque
 
+**Painel-Constru Startup**
+* Desenvolvedor Front-end
+* Implementação de novas funcionalidades
+* Arrumar Bugs
+
 **AGES (Agência Experimental de Software - PUCRS)**
 * Desenvolvimento de software para gerenciamento de estágios em empresa de odontologia.
 * Implementação de módulos de questionários aplicados em comunidades quilombolas.
