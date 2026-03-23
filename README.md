@@ -2,7 +2,7 @@
 
 ### Estudante de Engenharia de Software 
 
-Sou um estudante do 4º semestre de Engenharia de Software na PUCRS, apaixonado por tecnologia e focado em construir soluções robustas e inovadoras. Meu interesse principal está no desenvolvimento Backend com Java e Spring Boot, mas também possuo uma base sólida em Frontend com JavaScript e React.
+Sou um estudante do 5º semestre de Engenharia de Software na PUCRS, apaixonado por tecnologia e focado em construir soluções robustas e inovadoras. Meu interesse principal está no desenvolvimento Backend com Java e Spring Boot, mas também possuo uma base sólida em Frontend com JavaScript e React.
 
 Busco constantemente aprimorar minhas habilidades e contribuir para projetos que gerem impacto.
 
@@ -42,7 +42,7 @@ Busco constantemente aprimorar minhas habilidades e contribuir para projetos que
 
 **Bacharelado em Engenharia de Software**
 * Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS)
-* 4º semestre (Previsão de conclusão: 2027)
+* 5º semestre (Previsão de conclusão: 2027)
 
 ---
 
