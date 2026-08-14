@@ -17,11 +17,17 @@ Busco constantemente aprimorar minhas habilidades e contribuir para projetos que
 | **Banco de Dados** | Postgres, Mysql, MongoDb, Oracle                              |
 | **Tecnologias & Ferramentas** | Tailwind CSS, JUnit5, Viking, Figma, Git, GitHub, Docker |
 | **Pacote Office** | Excel, PowerPoint, Word, Power BI (Básico - Intermediário) |
-| **MachineLearning e análise de dados |
-
+| **Machine Learning & Análise de Dados** | Pandas, scikit-learn, Power BI (Básico–Intermediário) |
 ---
 
 ### ✨ Experiência em Destaque
+
+**KOR Club — E-commerce Full-Stack (usekorclub.com)**
+* Plataforma de e-commerce desenvolvida do zero, atualmente em produção.
+* Backend em Java/Spring Boot e frontend em React/TypeScript/Vite, com PostgreSQL (Neon).
+* Deploy em Google Cloud Run e Vercel, com pipeline de CI/CD via GitHub Actions.
+* Integração completa de pagamentos (Mercado Pago) e de frete/logística (Melhor Envio: OAuth 2.0, cálculo de frete, geração de etiquetas e rastreamento).
+* Gestão de credenciais com Google Cloud Secret Manager.
 
 **Painel-Constru Startup**
 * Desenvolvedor Front-end
@@ -43,7 +49,7 @@ Busco constantemente aprimorar minhas habilidades e contribuir para projetos que
 
 **Bacharelado em Engenharia de Software**
 * Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS)
-* 5º semestre (Previsão de conclusão: 2027)
+* 6º semestre (Previsão de conclusão: 12/2027)
 
 ---
 
