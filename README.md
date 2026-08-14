@@ -2,7 +2,7 @@
 
 ### Estudante de Engenharia de Software 
 
-Sou um estudante do 5º semestre de Engenharia de Software na PUCRS, apaixonado por tecnologia e focado em construir soluções robustas e inovadoras. Meu interesse principal está no desenvolvimento Backend com Java e Spring Boot, mas também possuo uma base sólida em Frontend com JavaScript e React.
+Sou um estudante do 6º semestre de Engenharia de Software na PUCRS, apaixonado por tecnologia e focado em construir soluções robustas e inovadoras. Meu interesse principal está no desenvolvimento Backend com Java e Spring Boot, mas também possuo uma base sólida em Frontend com JavaScript e React.
 
 Busco constantemente aprimorar minhas habilidades e contribuir para projetos que gerem impacto.
 
@@ -12,11 +12,12 @@ Busco constantemente aprimorar minhas habilidades e contribuir para projetos que
 
 | Categoria                | Tecnologias                                           |
 | :----------------------- | :---------------------------------------------------- |
-| **Linguagens** | Java , JavaScript, TypeScript, C, R |
-| **Frameworks** | Spring Boot, React, Node.js, Nest.js     |
+| **Linguagens** | Java , JavaScript, TypeScript, C, R, Python |
+| **Frameworks** | Spring Boot, React, Node.js, Nest.js, FastApi     |
 | **Banco de Dados** | Postgres, Mysql, MongoDb, Oracle                              |
 | **Tecnologias & Ferramentas** | Tailwind CSS, JUnit5, Viking, Figma, Git, GitHub, Docker |
 | **Pacote Office** | Excel, PowerPoint, Word, Power BI (Básico - Intermediário) |
+| **MachineLearning e análise de dados |
 
 ---
 
