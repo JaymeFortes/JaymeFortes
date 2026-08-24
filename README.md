@@ -13,7 +13,7 @@ Busco constantemente aprimorar minhas habilidades e contribuir para projetos que
 | Categoria                | Tecnologias                                           |
 | :----------------------- | :---------------------------------------------------- |
 | **Linguagens** | Java , JavaScript, TypeScript, C, R, Python |
-| **Frameworks** | Spring Boot, React, Node.js, Nest.js, FastApi     |
+| **Frameworks** | Spring Boot, React, Node.js, Nest.js, FastApi, Quarkus     |
 | **Banco de Dados** | Postgres, Mysql, MongoDb, Oracle                              |
 | **Tecnologias & Ferramentas** | Tailwind CSS, JUnit5, Viking, Figma, Git, GitHub, Docker |
 | **Pacote Office** | Excel, PowerPoint, Word, Power BI (Básico - Intermediário) |
